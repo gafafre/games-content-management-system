@@ -1,0 +1,3 @@
+[submodule "braum"]
+	path = braum
+	url = git@github.com:/gafafre/braum.git
